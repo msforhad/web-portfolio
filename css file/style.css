@@ -1,0 +1,33 @@
+.jw {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .wc {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+  }
+  .name-highlight{
+    color: orange;
+    font-weight: 1000;
+    font-family: "Poppins",sans-serif;
+  }
+  .first-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+  }
+  .half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+  }
+  .half-width img{
+    width: 100%;
+  }
+  
